@@ -1,5 +1,7 @@
 # Pigment
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Seldszar/pigment.svg)](https://greenkeeper.io/)
+
 Another tool for extracting color palettes from Warframe data files.
 
 ## Install
